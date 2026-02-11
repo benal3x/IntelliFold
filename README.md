@@ -25,7 +25,7 @@ Foldbench.
 ## 📊 Benchmarking
 To comprehensively evaluate the performance of IntelliFold 2, we conducted a rigorous evaluation on [FoldBench](https://github.com/BEAM-Labs/FoldBench). We compared IntelliFold against several leading methods, including [Boltz-1,2](https://github.com/jwohlwend/boltz), [Chai-1](https://github.com/chaidiscovery/chai-lab), [Protenix](https://github.com/bytedance/Protenix) and [Alphafold3](https://github.com/google-deepmind/alphafold3).
 
-For more details on the benchmarking process and results, please refer to our release note [IntelliFold 2 Release Note](assets/Intellifold_v2_release_note.pdf) and [IntelliFold Technical Report](https://arxiv.org/abs/2507.02025).
+For more details on the benchmarking process and results, please refer to our release note [IntelliFold 2 Release Note](https://www.biorxiv.org/content/10.64898/2026.02.09.704787v1) and [IntelliFold Technical Report](https://arxiv.org/abs/2507.02025).
 
 ![Benchmark Metrics](assets/Intellifold_v2_performance.png)
 
@@ -34,7 +34,7 @@ For more details on the benchmarking process and results, please refer to our re
 
 To quickly get started with IntelliFold, you can use the following commands:
 >**model**: Choose the model for inference via `--model`. Default: `v2-flash`. Supported: `v1`, `v2`, `v2-flash`.  
->For differences between model versions, please refer to our **release note** [IntelliFold 2 Release Note](assets/Intellifold_v2_release_note.pdf)
+>For differences between model versions, please refer to our **release note** [IntelliFold 2 Release Note](https://www.biorxiv.org/content/10.64898/2026.02.09.704787v1)
 
 ```bash
 # Install intellifold from PyPI

@@ -115,3 +115,4 @@ The IntelliFold project, including code and model parameters, is made available 
 ## 📬 Contact Us
 
 If you have any questions or are interested in collaboration, please feel free to contact us at contact@intfold.com.
+

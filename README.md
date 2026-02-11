@@ -9,7 +9,7 @@
 
 <div align="center" style="margin: 20px 0;">
   <span style="margin: 0 10px;">⚡ <a href="https://server.intfold.com">IntelliFold Server</a></span>
-  &bull; <span style="margin: 0 10px;">📄 <a href="assets/Intellifold_v2_release_note.pdf">IntelliFold 2 Release Note</a></span> &bull; <span style="margin: 0 10px;">📄 <a href="https://arxiv.org/abs/2507.02025">IntelliFold Technical Report</a></span>
+  &bull; <span style="margin: 0 10px;">📄 <a href="https://www.biorxiv.org/content/10.64898/2026.02.09.704787v1">IntelliFold 2 Release Note</a></span> &bull; <span style="margin: 0 10px;">📄 <a href="https://arxiv.org/abs/2507.02025">IntelliFold Technical Report</a></span>
 </div>
 
 
@@ -17,7 +17,7 @@
 
 ## 🎉 New Model Release
 
- - **2026-02-07**: We are excited to present [[IntelliFold 2]](assets/Intellifold_v2_release_note.pdf). This version represents a
+ - **2026-02-07**: We are excited to present [[IntelliFold 2]](https://www.biorxiv.org/content/10.64898/2026.02.09.704787v1). This version represents a
 major architectural update and is one of the first open-source models to outperform AlphaFold3 on
 Foldbench.  
 
@@ -82,13 +82,12 @@ For comprehensive usage instructions and examples, refer to the [Usage Guide](do
 If you use IntelliFold in your research, please cite our paper:
 
 ```
-@techreport{qiao2026intellifold,
-      title={{IntelliFold 2: Surpassing AlphaFold 3 via Architectural Refinement and Structural Consistency}},
-      author={Lifeng Qiao and He Yan and Gary Liu and Gaoxing Guo and Siqi Sun},
-      year={2026},
-      institution={IntelliGen-AI},
-      type={Release Note},
-      url={https://github.com/IntelliGen-AI/IntelliFold/assets/Intellifold_v2_release_note.pdf}
+@article{qiao2026intellifold,
+  title={IntelliFold-2: Surpassing AlphaFold 3 via Architectural Refinement and Structural Consistency},
+  author={Qiao, Lifeng and Yan, He and Liu, Gary and Guo, Gaoxing and Sun, Siqi},
+  journal={bioRxiv},
+  year={2026},
+  publisher={Cold Spring Harbor Laboratory}
 }
 
 @article{team2025intfold,
